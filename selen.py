@@ -15,7 +15,7 @@ for i in t:
 
 for i in links:
 	Product={}
-	if(links.index(i)==5):
+	if(links.index(i)==10):
 		break;
 	driver.get(i)
 	a=driver.find_element_by_id("main-image-container")
