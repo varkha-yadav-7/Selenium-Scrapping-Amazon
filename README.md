@@ -17,6 +17,7 @@ The script scrapes 10 products' data from one specific Category.
 ### Additional Info :
 
 You can change the number of products you want to scrape upto 50 per category from line number 18 by changing the break value of loop in if statement.
-You can get items from different categories by changing the main link on line number 5. Given below are few category links for different categoties for your convinience.
+You can get items from different categories by changing the main link on line number 5. Given below is the main link for different categories for your convinience.
+You can open the category you want to use and change the link in line 5 accordingly.
 
-
+https://www.amazon.in/gp/new-releases/apparel/ref=zg_bsnr_unv_%22a%22_1_11400137031_2
